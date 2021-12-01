@@ -1,4 +1,4 @@
-# Sentiment Analysis with LSTMs
+# Sentiment Analysis With LSTMs
 
 This repository contains the iPython notebook and training data to accompany the [O'Reilly tutorial](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow) on sentiment analysis with LSTMs in Tensorflow. See the original tutorial to run this code in a pre-built environment on O'Reilly's servers with cell-by-cell guidance, or run these files on your own machine. There is also another file called `Pre-Trained LSTM.ipynb` which allows you to input your own text, and see the output of the trained network.
 
